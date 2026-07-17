@@ -1,7 +1,7 @@
 {
-  "name": "MiniFAT – Smart Dossier",
-  "short_name": "MiniFAT",
-  "description": "SMART DOSSIER, READY FOR SITE.",
+  "name": "SmMntnnc – Smart Maintenance",
+  "short_name": "SmMntnnc",
+  "description": "SMART MAINTENANCE, READY FOR SITE.",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",

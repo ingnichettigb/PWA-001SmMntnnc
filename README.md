@@ -1,10 +1,10 @@
-# PWA Template — MiniFAT
+# PWA Template — SmMntnnc
 
 Reusable PWA landing/redirect template for SaaS apps. Built to deploy as a
 static site on Cloudflare Pages (HTTPS required for PWA install).
 
-Current configuration: **MiniFAT – Smart Dossier**
-→ https://002mnfat.corporateboostservice.eu
+Current configuration: **SmMntnnc – Smart Maintenance**
+→ https://001smmntnnc.corporateboostservice.eu
 
 ## How to duplicate this template for a new SaaS
 
