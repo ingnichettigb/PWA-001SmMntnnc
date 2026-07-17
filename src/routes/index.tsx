@@ -1,11 +1,11 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { useEffect, useState } from "react";
 
-const SAAS_URL = "https://002mnfat.corporateboostservice.eu";
-const APP_NAME = "MiniFAT";
-const APP_FULL_NAME = "MiniFAT – Smart Dossier";
-const TAGLINE_EN = "SMART DOSSIER, READY FOR SITE.";
-const TAGLINE_IT = "DOSSIER INTELLIGENTE, PRONTO PER IL CANTIERE.";
+const SAAS_URL = "https://001smmntnnc.corporateboostservice.eu";
+const APP_NAME = "SmMntnnc";
+const APP_FULL_NAME = "SmMntnnc – Smart Maintenance";
+const TAGLINE_EN = "SMART MAINTENANCE, READY FOR SITE.";
+const TAGLINE_IT = "MANUTENZIONE INTELLIGENTE, PRONTA PER IL CANTIERE.";
 const ACCENT = "#b4ff3c";
 const BG = "#06090f";
 const BLUE = "#0a2a4a";
@@ -104,7 +104,7 @@ function Landing() {
       }}
     >
       <div
-        aria-label="MiniFAT logo"
+        aria-label="SmMntnnc logo"
         style={{
           display: "inline-flex",
           alignItems: "center",
@@ -138,7 +138,7 @@ function Landing() {
         }}
       >
         {APP_NAME}
-        <span style={{ color: ACCENT }}> – Smart Dossier</span>
+        <span style={{ color: ACCENT }}> – Smart Maintenance</span>
       </h1>
       <p
         style={{
@@ -177,7 +177,7 @@ function Landing() {
           boxShadow: `0 8px 24px rgba(180,255,60,0.25)`,
         }}
       >
-        Open MiniFAT / Apri MiniFAT →
+        Open SmMntnnc / Apri SmMntnnc →
       </a>
 
       {deferred && !installed && (
