@@ -125,8 +125,8 @@ function Landing() {
             lineHeight: 1,
           }}
         >
-          <span style={{ color: ACCENT }}>Mini</span>
-          <span style={{ color: "#ffffff" }}>FAT</span>
+          <span style={{ color: ACCENT }}>Sm</span>
+          <span style={{ color: "#ffffff" }}>Mntnnc</span>
         </span>
       </div>
       <h1
